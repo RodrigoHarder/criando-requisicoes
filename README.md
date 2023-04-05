@@ -9,7 +9,7 @@
 
 ## **Descrição**
 
-O projeto foi desenvolvido no curso de [JavaScript: criando requisições](https://cursos.alura.com.br/course/javascript-criando-requisicoes) ministrado pela instrutora Mônica Hillman. O objetivo foi simular e consumir dados de uma API, além de inserir novos dados e realizar pesquisas de vpideos por meio de palavras chaves, tudo isso sendo realizado através de requisições.
+O projeto foi desenvolvido no curso de [JavaScript: criando requisições](https://cursos.alura.com.br/course/javascript-criando-requisicoes) ministrado pela instrutora Mônica Hillman. O objetivo foi simular e consumir dados de uma API, além de inserir novos dados e realizar pesquisas de vídeos por meio de palavras-chave, tudo isso sendo realizado por meio de requisições.
 
 ## **Aprendizagens** 
 
